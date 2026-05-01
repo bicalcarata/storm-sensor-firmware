@@ -19,7 +19,6 @@ This file is a good-faith attribution and compliance aid, not legal advice.
 - Author/maintainer: Moon On Our Nation <moononournation@gmail.com>
 - Installed include used by this project: `Arduino_GFX_Library.h`
 - Upstream: https://github.com/moononournation/Arduino_GFX
-- Local install path checked: `/Users/damon/Documents/Arduino/libraries/GFX_Library_for_Arduino`
 - License: BSD license
 
 Copyright notice from the installed library:
@@ -41,7 +40,6 @@ with the redistributed source or accompanying documentation.
 - Author/maintainer: Adafruit <info@adafruit.com>
 - Installed include used by this project: `Adafruit_NeoPixel.h`
 - Upstream: https://github.com/adafruit/Adafruit_NeoPixel
-- Local install path checked: `/Users/damon/Documents/Arduino/libraries/Adafruit_NeoPixel`
 - License: GNU Lesser General Public License, version 3 or later
 
 Redistribution note:
@@ -78,7 +76,6 @@ with any redistribution of that library.
   - `BLEServer.h`
   - `BLEUtils.h`
 - Upstream: https://github.com/espressif/arduino-esp32
-- Local install path checked: `/Users/damon/Library/Arduino15/packages/esp32/hardware/esp32/3.3.8`
 
 The Arduino ESP32 core and its bundled components include multiple third-party
 licenses. Preserve the upstream license files and notices when redistributing a
