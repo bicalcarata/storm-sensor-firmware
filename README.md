@@ -416,8 +416,6 @@ Status flags:
 | Voltage > 4.6 V | High warning |
 | ADC invalid or out of range | Unknown |
 
-The code comments note that GPIO17 and the divider should be checked against the exact Waveshare board revision before reuse.
-
 ## LEDs
 
 Two NeoPixels on GPIO40 provide glanceable severity state:
