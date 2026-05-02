@@ -652,3 +652,17 @@ BLE only starts in ROAMING mode. Toggle from the NETWORK page or clear the saved
 6. Confirm microphone idle baseline is stable before testing thunder correlation.
 7. Use ROAMING mode for BLE field use or HOME mode for Wi-Fi/API testing.
 8. Watch serial confidence logs for `ACCEPT`, `PROMPT`, and `SUPPRESS` decisions during test events.
+
+##Important Notes**
+The CJMCU AS3935 board defaults to spi mode, it should be wired as below to enable i2c and set the correct address.
+
+VCC  -> 3.3V
+GND  -> GND
+SCL  -> SCL
+MOSI -> SDA
+IRQ  -> GPIO39
+CS   -> GND
+MISO -> GND
+SI   -> 3.3V
+A0   -> GND
+A1   -> 3.3V
