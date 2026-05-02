@@ -2,7 +2,7 @@
 
 Firmware version: `v1.0`
 
-This is a meant to be a fun project and not designed for actual scientific use or storm monitoring.
+This is a meant to be a fun working project but not designed for actual scientific use.
 
 `Lightning_Detector_v1_0` is an ESP32-S3 Arduino firmware for a portable storm sensor suite built around a Waveshare ESP32-S3 Touch AMOLED 2.41 display. It combines lightning detection, environmental sensing, microphone-based thunder correlation, GPS status, addressable LEDs, BLE telemetry, optional Wi-Fi/Home mode, captive Wi-Fi provisioning, and a small HTTP API.
 
