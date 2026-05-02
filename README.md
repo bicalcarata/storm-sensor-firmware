@@ -653,7 +653,8 @@ BLE only starts in ROAMING mode. Toggle from the NETWORK page or clear the saved
 7. Use ROAMING mode for BLE field use or HOME mode for Wi-Fi/API testing.
 8. Watch serial confidence logs for `ACCEPT`, `PROMPT`, and `SUPPRESS` decisions during test events.
 
-##Important Notes**
+## Important Notes
+
 The CJMCU AS3935 board defaults to spi mode, it should be wired as below to enable i2c and set the correct address.
 
 VCC  -> 3.3V
