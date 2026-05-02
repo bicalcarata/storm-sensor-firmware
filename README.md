@@ -44,7 +44,7 @@ AS3935 lightning interrupts are treated as strike candidates, then scored using 
 
 ## Target Hardware
 
-The code is written for an ESP32-S3 board with a Waveshare 2.41 inch AMOLED panel and FT6336 touch controller.
+The code is written for an ESP32-S3 board with a Waveshare 2.41 inch AMOLED panel and FT6336 touch controller, BME280 humidity, pressure and temp sensor, microphone,Neo M8N gps and AS3935 strike sensor board. Check the Summary text on the thingiverse link here for actual components used: https://www.thingiverse.com/thing:7343586
 
 ### Display and Touch
 
