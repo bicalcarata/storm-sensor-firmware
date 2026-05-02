@@ -608,7 +608,7 @@ Touch setup is skipped if the I2C bus is faulted. Otherwise the firmware resets 
 
 ### AS3935 not found
 
-The firmware probes only `0x03`, `0x02`, and `0x01`. Confirm the AS3935 address select pins, I2C mode, power, ground, and IRQ wiring to GPIO39.
+The firmware probes only `0x03`, `0x02`, and `0x01`. Confirm the AS3935 address select pins, I2C mode, power, ground, and IRQ wiring to GPIO39.  See Important Notes section in README for actual pin outs and wiring guide for the AS3935
 
 ### BME280 not found
 
